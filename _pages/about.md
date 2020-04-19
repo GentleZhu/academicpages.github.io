@@ -10,7 +10,8 @@ redirect_from:
 
 I am a Ph.D student in Computer Science Department at UIUC under supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). I received my Bachelor and Master degree in Computer Science at Zhejiang University and University of Illinois, respectively.  
 
-My research interest is weakly-supervised graph representation learning on heterogenous information networks such as citation networks and knowledge graphs. Recently, I'm working on label-efficient graph mining algorithms, especially graph neural networks.
+My research interest is weakly-supervised graph representation learning on heterogenous information networks such as citation networks and knowledge graphs. Recently, I'm working on large-scale label-efficient graph mining algorithms, especially graph neural networks. Most of the work on network structured data can scale up to millions of nodes. 
+Occasionally, I contribute to Deep Graph Library(https://www.dgl.ai/). 
 
 In the past, I also worked on weakly-supervised information extraction and extractive summarization.
 
@@ -26,7 +27,7 @@ Selected Publications
 
 **Qi Zhu**, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han 
 
-International World Wide Web Conference(WWW), 2020 [[code]](https://github.com/GentleZhu/CG-MuAlign) [[paper]]
+International World Wide Web Conference(WWW), 2020 [[code]](https://github.com/GentleZhu/CG-MuAlign) [[paper]](https://gentlezhu.github.io/files/CollectiveLinkage.pdf)
 
 2.Integrating Local and Global Information for Open Information Extraction
 
