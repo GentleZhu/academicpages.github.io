@@ -27,7 +27,7 @@ Selected Publications
 
 **Qi Zhu**, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han 
 
-International World Wide Web Conference(WWW), 2020 [[code]](https://github.com/GentleZhu/CG-MuAlign) [[paper]](https://gentlezhu.github.io/files/CollectiveLinkage.pdf)
+International World Wide Web Conference(WWW), 2020 [[code]](https://github.com/GentleZhu/CG-MuAlign) [[paper]](https://gentlezhu.github.io/files/CollectiveLinkage.pdf) [[slides]](https://gentlezhu.github.io/files/CG_MuAlign_slides.pdf)
 
 2.Integrating Local and Global Information for Open Information Extraction
 
