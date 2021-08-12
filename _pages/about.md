@@ -18,7 +18,7 @@ In the past, I also worked on weakly-supervised information extraction and extra
 
 Pre-prints
 ======
-1.Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]]()
+1.Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://arxiv.org/pdf/2108.01099.pdf)
 
 **Qi Zhu**, Natalia Ponomareva, Jiawei Han, Bryan Perozzi 
 
