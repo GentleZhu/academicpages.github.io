@@ -16,15 +16,19 @@ Occasionally, I contribute to [Deep Graph Library](https://www.dgl.ai/).
 In the past, I also worked on weakly-supervised information extraction and extractive summarization.
 
 
-Pre-prints
+Transfer Learning on Graph Neural Networks
 ======
 1.Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://arxiv.org/pdf/2108.01099.pdf)
 
 **Qi Zhu**, Natalia Ponomareva, Jiawei Han, Bryan Perozzi 
 
+Proc. 2021 Conf. on Neural Information Processing Systems (NeurIPS’21)
+
 2.Transfer learning of graph neural networks with ego-graph information maximization [[paper]](https://arxiv.org/pdf/2009.05204.pdf)
 
 **Qi Zhu**, Carl Yang, Yidan Xu, Haonan Wang, Chao Zhang, Jiawei Han 
+
+Proc. 2021 Conf. on Neural Information Processing Systems (NeurIPS’21)
 
 Selected Publications
 ======
