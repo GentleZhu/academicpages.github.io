@@ -15,7 +15,7 @@ Occasionally, I contribute to [Deep Graph Library](https://www.dgl.ai/). Free fr
 
 In the past, I also worked on weakly-supervised information extraction and extractive summarization.
 
-<span style="color:red">I am actively looking for internship and full-time jobs related to my background in 2022!</span>.
+<span style="color:red">I am actively looking for internship and full-time jobs related to my background in 2022!</span>
 
 Transfer Learning on Graph Neural Networks
 ======
