@@ -11,10 +11,11 @@ redirect_from:
 I am a Ph.D student in Computer Science Department at UIUC under supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). I received my Bachelor and Master degree in Computer Science at Zhejiang University and University of Illinois, respectively.  
 
 My research interest is weakly-supervised graph representation learning on heterogenous information networks such as citation networks and knowledge graphs. Recently, I'm working on topics related to transferability and generalizability on graph neural networks. Most of my work on network structured data can scale up to millions of nodes. 
-Occasionally, I contribute to [Deep Graph Library](https://www.dgl.ai/). 
+Occasionally, I contribute to [Deep Graph Library](https://www.dgl.ai/). Free free to drop me an email for dicsussion (qiz3 AT illinois.edu)
 
 In the past, I also worked on weakly-supervised information extraction and extractive summarization.
 
+<span style="color:red">I am actively looking for internship and full-time jobs related to my background in 2022!</span>.
 
 Transfer Learning on Graph Neural Networks
 ======
