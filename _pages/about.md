@@ -8,45 +8,49 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in Computer Science Department at UIUC under supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). I received my Bachelor and Master degree in Computer Science at Zhejiang University and University of Illinois, respectively.  
+I am a final year Ph.D student in Computer Science Department at UIUC under supervision of [Prof. Jiawei Han](http://hanj.cs.illinois.edu/). I received my Bachelor and Master degree in Computer Science at Zhejiang University and University of Illinois, respectively.  
 
-My research interest is weakly-supervised graph representation learning on heterogenous information networks such as citation networks and knowledge graphs. Recently, I'm working on topics related to transferability and generalizability on graph neural networks. Most of my work on network structured data can scale up to millions of nodes. 
-Occasionally, I contribute to [Deep Graph Library](https://www.dgl.ai/). Free free to drop me an email for dicsussion (qiz3 AT illinois.edu)
+I am motivated to design graph learning algorithms that are robust to *in-the-Wild* distribution shifts in real-world applications. Specifically, I work on:
 
-In the past, I also worked on weakly-supervised information extraction and extractive summarization.
+* Principles: transferable pre-training of GNNs ([**EGI**](https://arxiv.org/pdf/2009.05204.pdf)), handling localized training data ([**SR-GNNs**](https://arxiv.org/pdf/2108.01099.pdf)), domain adaptation via optimal Transport ([**GDOT**]())
+* Applications: entity alignment on unknown types([**CG-Align**](https://arxiv.org/pdf/2009.05204.pdf)), name disambiguation in academia network ([**GAND**]())and etc.
+
+Here is my resume. Free free to drop me an email for dicsussion (qiz3 AT illinois.edu).
 
 
-Transfer Learning on Graph Neural Networks
+Talks
 ======
-1.Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://arxiv.org/pdf/2108.01099.pdf)
+## Overcoming the Limitations of Localized Graph Training data
+@ Graph Intelligence Sciences team at Microsoft MSAI, May 2022
+<a class="btn btn-primary btn-outline btn-xs" href=files/SRGNN_slides.pdf>Slides</a>
+## Designing Robust Graph Neural Network against Distribution Shift
+@ DGL Team, May 2022
+<a class="btn btn-primary btn-outline btn-xs" href=files/SRGNN_slides.pdf>Slides</a>
+
+Selected Publications
+======
+(\*) indicates equal contributions
+## Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2108.01099.pdf">Paper</a> <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/GentleZhu/Shift-Robust-GNNs">Code</a> 
 
 **Qi Zhu**, Natalia Ponomareva, Jiawei Han, Bryan Perozzi 
 
 Proc. 2021 Conf. on Neural Information Processing Systems (NeurIPS’21)
 
-2.Transfer learning of graph neural networks with ego-graph information maximization [[paper]](https://arxiv.org/pdf/2009.05204.pdf)
+## Transfer learning of graph neural networks with ego-graph information maximization <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2009.05204.pdf">Paper</a>
 
-**Qi Zhu**, Carl Yang, Yidan Xu, Haonan Wang, Chao Zhang, Jiawei Han 
+**Qi Zhu**<sup>\*</sup>, Carl Yang<sup>\*</sup>, Yidan Xu, Haonan Wang, Chao Zhang, Jiawei Han 
 
 Proc. 2021 Conf. on Neural Information Processing Systems (NeurIPS’21)
 
-Selected Publications
-======
-1.Collective Multi-type Entity Alignment Between Knowledge Graphs
 
+## Collective Multi-type Entity Alignment Between Knowledge Graphs <a class="btn btn-primary btn-outline btn-xs" href="gentlezhu.github.io/files/CollectiveLinkage.pdf">Paper</a> <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/GentleZhu/CG-MuAlign">Code</a> <a class="btn btn-primary btn-outline btn-xs" href="https://gentlezhu.github.io/files/CG_MuAlign_slides.pdf">Slides</a> <a class="btn btn-primary btn-outline btn-xs" href="https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/">Media Coverage</a>
 
 **Qi Zhu**, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han 
 
-International World Wide Web Conference(WWW), 2020 [[code]](https://github.com/GentleZhu/CG-MuAlign) [[paper]](https://gentlezhu.github.io/files/CollectiveLinkage.pdf) [[slides]](https://gentlezhu.github.io/files/CG_MuAlign_slides.pdf) [[media coverage]](https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/)
+International World Wide Web Conference(WWW), 2020 
 
-2.Integrating Local and Global Information for Open Information Extraction
-
-**Qi Zhu**, Xiang Ren, Jingbo Shang, Yu Zhang, Ahmed El-Kishky, Jiawei Han
-
-International Conference on Web Search and Data Mining(WSDM), 2019 [[code]](https://github.com/GentleZhu/ReMine) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3291030)
-
-3.Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
+## Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks [[code]](https://github.com/GentleZhu/HEER) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220006)
 
 Yu Shi<sup>\*</sup>, **Qi Zhu**<sup>\*</sup>, Fang Guo, Chao Zhang, Jiawei Han (<sup>\*</sup> equal contribution)
 
-International Conference on Knowledge Discovery & Data Mining(KDD), 2018 [[code]](https://github.com/GentleZhu/HEER) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220006)
+International Conference on Knowledge Discovery & Data Mining(KDD), 2018 
