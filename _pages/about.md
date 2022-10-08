@@ -28,7 +28,7 @@ Talks
 <span style="font-size:larger;">Designing Robust Graph Neural Network against Distribution Shift</span>
 
 @ DGL Team, May 2022
-<a class="btn btn-primary btn-outline btn-xs" href="https://gentlezhu.github.io/files/designing_robust_gnn_aws.pdf">Slides</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://gentlezhu.github.io/files/designing_robust_gnns_aws.pdf">Slides</a>
 
 Selected Publications
 ======
